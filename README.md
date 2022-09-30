@@ -2,7 +2,7 @@
 
 Problem Set 2: Routing and Path Optimization
 
-More assignment specifications to come
+More assignment specifications to come and files
 
 Objectives:
 * Create data structure representations of directed graphs
